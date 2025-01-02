@@ -1,5 +1,4 @@
 - Hi, I’m Duy Nguyen
-- I'm an Trader and also an Algorithmic, Quantitative Trader
 - I’m looking to collaborate on Quantitative trading field
 - Reach me duynh219gmail.com
 
